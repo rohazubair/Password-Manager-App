@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmdAssignment3</string>
+    <string name="fab_add_entry_content_description">Add Entry</string>
+    <string name="fab_recycle_bin_content_description">Add Entry</string>
+</resources>
