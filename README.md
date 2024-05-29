@@ -1,4 +1,4 @@
-#Password-Manager-App
+#**Password-Manager-App**
 
 This is a password manager app that stores and manages user credentials. The application utilizes SQLite database to store user data and implement user authentication functionality to ensure secure access to stored passwords.
 
