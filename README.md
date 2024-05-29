@@ -7,12 +7,17 @@ Below are the detailed functionalities of the application:
 1) User Authentication:
    
    a) User authentication functionality to access the app
+   
    b) Allows users to register for a new account
+   
    c) Allows users to log in to the application using their login details
 
-2) Password Management:
+3) Password Management:
    
    a) Add new entries to the password manager. Each entry can include fields for username, password, and website URL.
+   
    b) Edit existing entries to update username, password, or other details.
+   
    c) Delete entries from the password manager.
+   
    d) "Recycle bin" feature to store deleted entries temporarily, allowing users to restore them if needed.
